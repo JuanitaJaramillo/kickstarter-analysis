@@ -10,3 +10,4 @@ The analysis of the data consisted of applying filters that would be relevent to
 Knowing what to do with the data can pose great challenges. One of the major challenges that I encountered was in generating the outcomes based on goals chart in Deliverable 2. The application of the CountIf function is a new concept to me. It took multiple tries for me to be able to get the formula to generate the information that I needed. Once I 
 ## Results and Conclusions
 #### Theater Outcomes by Launch Date
+One of the notable results of the line chart for theater outcomes based on launch date is the significant up peak in successful launches in the month of May. 
